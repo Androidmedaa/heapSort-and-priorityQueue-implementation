@@ -1,0 +1,10 @@
+C:\Users\Dilber\Desktop\DataStructuresFormOdevi\stajTalepleri\stajTalepleri\stajTalepleri\obj\Debug\stajTalepleri.csproj.AssemblyReference.cache
+C:\Users\Dilber\Desktop\DataStructuresFormOdevi\stajTalepleri\stajTalepleri\stajTalepleri\obj\Debug\stajTalepleri.Form1.resources
+C:\Users\Dilber\Desktop\DataStructuresFormOdevi\stajTalepleri\stajTalepleri\stajTalepleri\obj\Debug\stajTalepleri.Properties.Resources.resources
+C:\Users\Dilber\Desktop\DataStructuresFormOdevi\stajTalepleri\stajTalepleri\stajTalepleri\obj\Debug\stajTalepleri.csproj.GenerateResource.cache
+C:\Users\Dilber\Desktop\DataStructuresFormOdevi\stajTalepleri\stajTalepleri\stajTalepleri\obj\Debug\stajTalepleri.csproj.CoreCompileInputs.cache
+C:\Users\Dilber\Desktop\DataStructuresFormOdevi\stajTalepleri\stajTalepleri\stajTalepleri\bin\Debug\stajTalepleri.exe.config
+C:\Users\Dilber\Desktop\DataStructuresFormOdevi\stajTalepleri\stajTalepleri\stajTalepleri\bin\Debug\stajTalepleri.exe
+C:\Users\Dilber\Desktop\DataStructuresFormOdevi\stajTalepleri\stajTalepleri\stajTalepleri\bin\Debug\stajTalepleri.pdb
+C:\Users\Dilber\Desktop\DataStructuresFormOdevi\stajTalepleri\stajTalepleri\stajTalepleri\obj\Debug\stajTalepleri.exe
+C:\Users\Dilber\Desktop\DataStructuresFormOdevi\stajTalepleri\stajTalepleri\stajTalepleri\obj\Debug\stajTalepleri.pdb
